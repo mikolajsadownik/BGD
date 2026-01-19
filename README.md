@@ -96,22 +96,3 @@ Przykładowe metryki modelu:
 
 ---
 
-## 5. Wnioski
-Projekt pokazuje kompletny, praktyczny przykład:
-- integracji narzędzi Big Data,
-- podstaw MLOps,
-- kontroli jakości danych,
-- automatyzacji procesów analitycznych.
-
-Pipeline może być dalej rozwijany o:
-- lepsze modele ML,
-- wersjonowanie danych,
-- wdrożenie modeli (serving),
-- bardziej rozbudowane reguły walidacji.
-
----
-
-## 6. Status końcowy
-✅ Pipeline działa poprawnie  
-✅ Wszystkie taski w Airflow zakończone sukcesem  
-✅ Model zapisany w MLflow  
