@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "row_count": 50,
+  "columns": [
+    "order_id",
+    "country",
+    "amount",
+    "order_date"
+  ],
+  "errors": []
+}

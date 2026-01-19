@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Airflow
+airflow.cfg
+airflow.db
+logs/
+dags/__pycache__/
+
+# Docker
+*.log
+.env
+.env.*
+
+# Data
+data/
+*.csv
+*.parquet
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Great Expectations
+gx/uncommitted/
+gx/.ipynb_checkpoints/
+
+# MinIO
+minio_data/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
